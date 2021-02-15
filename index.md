@@ -1,5 +1,1 @@
----
-title: Waaaaauuugghhhh
----
-
-<h2>Amy, you are loved!!!</h2>
+<p>Love, Mom</p>
